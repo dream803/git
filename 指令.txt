@@ -1,0 +1,19 @@
+准星： CSGO-8ATPj-yPWBa-scTTJ-26C45-LtuWK
+持枪视角:
+viewmodel_offset_x 2.500000
+viewmodel_offset_y -2.000000
+viewmodel_offset_z -2.000000
+
+雷达
+否
+是
+是
+是
+0.63
+1.20
+0.28
+1
+
+灵敏度
+
+1200*0.9
